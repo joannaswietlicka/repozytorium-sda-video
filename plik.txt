@@ -1,1 +1,3 @@
-Król Karol kupił królowej korale.
+Król Karol kupił królowej kwiaty.
+
+Dodanie nowej funkcjonalności do wypróbowania.
