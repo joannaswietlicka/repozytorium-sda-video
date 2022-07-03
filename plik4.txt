@@ -1,1 +1,1 @@
-stworzenie funkcjonalnosci 4
+modyfikacja funkcjonalnosci 4 dla lepszego działania
